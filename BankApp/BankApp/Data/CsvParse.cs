@@ -60,7 +60,7 @@ namespace BankApp.Data
                 if (path == "0")
                 {
                     Console.Clear();
-                    app.menu();
+                    App.menu();
                 }
                 else
                 {

@@ -5,7 +5,7 @@ using System.Collections;
 
 namespace BankApp
 {
-    public class app
+    public class App
     {
         public static void menu()
         {

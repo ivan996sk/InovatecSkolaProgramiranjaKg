@@ -87,7 +87,7 @@ namespace BankApp.Control
                 if (bankName.Equals("0"))
                 {
                     Console.Clear();
-                    app.menu();
+                    App.menu();
                 }
                 bankEx = checkBank(clientId, bankName);
             }
@@ -97,7 +97,7 @@ namespace BankApp.Control
             if (opt.Equals("0"))
             {
                 Console.Clear();
-                app.menu();
+                App.menu();
             }
             else
             {

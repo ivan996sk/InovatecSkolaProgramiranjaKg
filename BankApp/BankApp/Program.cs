@@ -1,3 +1,3 @@
 ﻿using BankApp;
 
-app.menu();
+App.menu();
